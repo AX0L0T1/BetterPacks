@@ -12,4 +12,4 @@ Want to support **BetterPacks**? Get the PREMIUM version of **BetterPacks** for 
 
 ## Don't like Cave Sounds?
 
-Don't worry, **BetterPacks** removes all cave sounds in the _`NoCaveSounds`_ pack.
+Don't worry, **BetterPacks** removes all cave sounds in the [_`NoCaveSounds`_](https://ax0l0t1.github.io/BetterPacks/no-cave-sounds) pack.
