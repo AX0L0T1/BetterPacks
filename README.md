@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://ax0l0tl.github.io/BetterPages)
 
-### BetterPacks
+# BetterPacks
 
 ## What is BetterPacks?
 
