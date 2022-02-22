@@ -2,33 +2,14 @@
 
 You can use the [editor on GitHub](https://ax0l0tl.github.io/BetterPages)
 
-### Markdown
+### BetterPacks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is BetterPacks?
 
-```markdown
-Syntax highlighted code block
+**BetterPacks** is a project made by [iSky](https://twitch.tv/isky_mc) to make minecraft a bit _better_.
+Don't have money, or just don't want to spend it on this? Get the LITE version of **BetterPacks** for free!
+Want to support **BetterPacks**? Get the PREMIUM version of **BetterPacks** for $5.00 and you will get a better experience!
 
-# Header 1
-## Header 2
-### Header 3
+## Don't like Cave Sounds?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AX0L0T1/BetterPacks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### 
-[documentation](https://docs.github.com/categories/github-pages-basics/)
+Don't worry, **BetterPacks** removes all cave sounds in the _`NoCaveSounds`_ pack.
