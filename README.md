@@ -6,6 +6,14 @@
 Don't have money, or just don't want to spend it on this? Get the LITE version of **BetterPacks** for free!
 Want to support **BetterPacks**? Get the PREMIUM version of **BetterPacks** for $5.00 and you will get a better experience!
 
-## Don't like Cave Sounds?
+## Getting tired of the plain discs?
 
-Don't worry, **BetterPacks** removes all cave sounds in the [_`NoCaveSounds`_](https://ax0l0t1.github.io/BetterPacks/no-cave-sounds) pack.
+Don't worry, **BetterPacks** makes all music discs better in the [_`Better Discs`_](https://ax0l0t1.github.io/BetterPacks/better-discs) pack.
+
+## Running with low FPS?
+
+Get the **BetterPacks** [_`BetterFPS`_] pack.
+
+## Running with decent FPS and want the textures to look better?
+
+Get the **BetterPacks** [_`Realism`_] pack.
