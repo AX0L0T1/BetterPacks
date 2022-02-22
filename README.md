@@ -17,3 +17,16 @@ Get the **BetterPacks** [_`BetterFPS`_] pack.
 ## Running with decent FPS and want the textures to look better?
 
 Get the **BetterPacks** [_`Realism`_] pack.
+
+# Installations
+
+Please consider donating to my [Patreon](https://patreon.com/iskypacks) account to keep this project going
+
+### Better Discs Pack
+[Download](https://drive.google.com/example-for-now) - [Patreon](https://patreon.com/iskypacks)
+
+### BetterFPS Pack
+[Download](https://drive.google.com/example-for-now) - [Patreon](https://patreon.com/iskypacks)
+
+### Realism Pack
+[Download](https://drive.google.com/example-for-now) - [Patreon](https://patreon.com/iskypacks)
