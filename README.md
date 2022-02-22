@@ -1,7 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://ax0l0t1.github.io/BetterPages)
-
 # BetterPacks
 
 ## What is BetterPacks?
